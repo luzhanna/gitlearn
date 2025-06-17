@@ -13,3 +13,5 @@ Second branch
 Feature branch
 
 More to feature branch
+
+FEATURE
