@@ -14,7 +14,7 @@ Feature branch
 
 More to feature branch
 
+<<<<<<< HEAD
 MASTER
-
-FEATURE
 MORE MASTER
+>>>>>>> feature
